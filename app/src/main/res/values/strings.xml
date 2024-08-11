@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task Today App2</string>
+    <string name="view_name_tasklist">Lista de Tarefas</string>
+</resources>
